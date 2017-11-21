@@ -1,2 +1,1 @@
 FROM gcr.io/google-containers/kube-apiserver-amd64:v1.8.3
-MAINTAINER rock890
